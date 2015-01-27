@@ -1,0 +1,23 @@
+.gallery {
+    margin: 0 auto;
+    width: 680px;
+    overflow: hidden;
+    padding: 5px;
+    z-index: -2;
+}
+
+.image {
+    display: inline-block;
+    border: 10px solid #10b0b7;
+    margin: 5px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    float: left;
+    -webkit-transition: all .5s;
+    height: 250px;
+    width: 215px;
+}
+
+.image:hover {
+    -webkit-transform: translateY(-5px);
+}

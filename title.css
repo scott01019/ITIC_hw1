@@ -1,0 +1,15 @@
+.left {
+	position: relative;
+	left: -75px;
+}
+
+.right {
+	position: relative;
+	right: -55px;
+}
+
+.bottom {
+	position: relative;
+	bottom: 25px;
+	left: -10px;
+}

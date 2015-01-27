@@ -1,0 +1,32 @@
+footer {
+	margin: 50px auto 0 auto;
+	width: 100%;
+	background-color: #10b0b7;
+	color: white;
+}
+
+.footer-container {
+	margin: 0 auto;
+	width: 960px;
+}
+
+.footer-link {
+	padding: 10px;
+	font-family: Open Sans;
+	text-align: center;
+	margin: 0 auto;
+	width: 200px;
+	display: block;
+}
+
+.copyright {
+	padding-top: 50px;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 12px;
+	border-bottom: none;
+}
+
+.footer-bottom {
+	height: 345px;
+}
