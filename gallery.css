@@ -14,10 +14,12 @@
     border-radius: 10px;
     float: left;
     -webkit-transition: all .5s;
+    transition: all .5s;
     height: 250px;
     width: 215px;
 }
 
 .image:hover {
     -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
 }
